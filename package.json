@@ -1,0 +1,16 @@
+{
+  "name": "nodejs1stassignment",
+  "version": "1.0.0",
+  "description": "Fisrt Internshala training backend assignment for full stack developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Gaurav Vishwakarma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-persist": "^3.1.0"
+  }
+}
